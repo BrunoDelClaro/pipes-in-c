@@ -1,0 +1,3 @@
+Utilizando pipes eu uso um processo para receber input do usuário e comunicar com meu processo 2 que é responsável por acessar os arquivos e colocar na tela o que é esperado;
+
+O programa é basicamente uma loja de um jogo na qual existe o inventario do usuario e a loja, é possivel vender e comprar.
